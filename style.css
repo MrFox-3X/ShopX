@@ -608,7 +608,7 @@ body {
   gap:1rem;
  }
  .category-list-item {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/assets/images/man.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://raw.githubusercontent.com/MrFox-3X/ShopX/refs/heads/main/man.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -616,7 +616,7 @@ body {
   display: inline-block;
 }
 .category-list-item:last-child {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/assets/images/women.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://raw.githubusercontent.com/MrFox-3X/ShopX/refs/heads/main/women.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
