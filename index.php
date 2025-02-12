@@ -1507,7 +1507,7 @@ body {
               <span class="deal-price">
                  $133
               </span>
-              <a href="order.html" class="deal-btn">Buy Now <i class="fa-solid fa-chevron-right"></i></a>
+              <a href="?PlaceOrder" class="deal-btn">Buy Now <i class="fa-solid fa-chevron-right"></i></a>
             </div>
             <div class="deal-items-img">
               <img src="https://freepngimg.com/thumb/categories/627.png" class="deal-image" alt="">
