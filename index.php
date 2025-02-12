@@ -1507,7 +1507,7 @@ body {
               <span class="deal-price">
                  $133
               </span>
-              <a href="<?php echo (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST']; ?>od.php?PlaceOrder" class="deal-btn">Buy Now <i class="fa-solid fa-chevron-right"></i></a>
+              <a href="<?php echo (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST']; ?>/od.php?PlaceOrder" class="deal-btn">Buy Now <i class="fa-solid fa-chevron-right"></i></a>
             </div>
             <div class="deal-items-img">
               <img src="https://freepngimg.com/thumb/categories/627.png" class="deal-image" alt="">
